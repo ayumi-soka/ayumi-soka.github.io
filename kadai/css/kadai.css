@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+button[type="button"]{
+    font-size: 18px;
+    border: 4px solid #5f9ea0;
+    border-radius: 8px;
+    
+    background:#fffff0;
+    color: #5f9ea0;
+}
+
+#h1{
+   
+    color: darkslateblue;
+}
+
+.center{
+    text-align: center
+}
